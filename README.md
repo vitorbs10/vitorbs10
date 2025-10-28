@@ -25,6 +25,7 @@ Atualmente, estou me preparando para a certificação **AWS Solutions Architect 
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 ## Certificações
+![AWS Certified Solutions Architect – Associate](https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-%23232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
 
 ![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![AWS Certified Solutions Architect – Associate](https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-%23232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
