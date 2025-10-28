@@ -27,8 +27,8 @@ Atualmente, estou me preparando para a certificação **AWS Solutions Architect 
 ---
 
 ## 📊 GitHub Stats
-![Vítor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=tokyonight)
+![Vítor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vitorbs10&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?vitorbs10&layout=compact&theme=tokyonight)
 
 ---
 
