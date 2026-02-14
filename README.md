@@ -23,19 +23,17 @@ Meu foco é construir uma base sólida: menos "hype" e mais fundamentos.
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-## Certificações
 
-![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+## 🏅 Certificações & Objetivos
 
-![AWS Certified Solutions Architect – Associate](https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-%23232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
-
-
-
+| Status | Badge | Certificação | Nível |
+| :---: | :---: | :--- | :---: |
+| ✅ | ![AWS Practitioner](https://img.shields.io/badge/-AWS%20Certified%20Cloud%20Practitioner-FF9900?logo=amazon-aws&logoColor=white&style=flat-square) | **Cloud Practitioner** | Foundational |
+| ✅ | ![AWS SAA](https://img.shields.io/badge/-AWS%20Certified%20Solutions%20Architect%20Associate-232F3E?logo=amazon-aws&logoColor=FF9900&style=flat-square) | **Solutions Architect – Associate** | Associate |
+| 🚀 | ![CKA](https://img.shields.io/badge/-Certified%20Kubernetes%20Administrator-326ce5?logo=kubernetes&logoColor=white&style=flat-square) | **CKA** | *Next Goal / In Progress* |
 
 ---
-### 🛠️ Tecnologias mais utilizadas
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vitorbs10&layout=compact&theme=tokyonight&hide=html,css)
 
 ## 📊 GitHub Stats
 
