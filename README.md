@@ -36,7 +36,7 @@ Meu foco é construir uma base sólida: menos "hype" e mais fundamentos.
 
 ## 📊 GitHub Stats
 
-![Vítor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vitorbs10&show_icons=true&theme=tokyonight)
+![Stats de Vítor](https://github-readme-stats-sigma-five.vercel.app/api?username=vitorbs10&show_icons=true&theme=tokyonight)
 
 ---
 
