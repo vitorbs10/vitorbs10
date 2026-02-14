@@ -1,15 +1,14 @@
 # 👋 Fala aí, eu sou o Vítor!
 
-💻 **Cloud | DevOps | AWS Enthusiast**
+💻 **Cloud | DevOps | SRE**
 
-Sou aquele cara que veio da infraestrutura, se apaixonou pela nuvem e agora tá montando pipelines como quem monta LEGO.  
-Atualmente, estou me preparando para a certificação **AWS Solutions Architect – Associate (SAA-C03)** e criando projetos práticos pra colocar tudo em jogo.  
-
+Vim da base da infraestrutura e hoje estou mergulhando de cabeça no mundo Cloud e na cultura DevOps. Não tenho todas as respostas, mas tenho o terminal aberto e a documentação na outra tela para encontrar cada uma delas.
+Meu foco é construir uma base sólida: menos "hype" e mais fundamentos.
 ---
 
 ## ☁️ O que ando fazendo
-- Estudando firme pra prova da **AWS SAA-C03**  
-- Praticando **CI/CD  e Kubernetes**  
+- Estudando firme pra prova da **CKA**  
+- Praticando **Observabilidade e Kubernetes**  
 - Estudando Python com foco em automação**  
 - Cursando Pós-Graduação de SRE na PUC para me aprimorar.
 
