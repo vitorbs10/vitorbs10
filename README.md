@@ -9,7 +9,7 @@ Meu foco é construir uma base sólida: menos "hype" e mais fundamentos.
 ## ☁️ O que ando fazendo
 - Estudando firme pra prova da **CKA**  
 - Praticando **Observabilidade e Kubernetes**  
-- Estudando Python com foco em automação**  
+- Estudando Python com foco em automação 
 - Cursando Pós-Graduação de SRE na PUC para me aprimorar.
 
 ---
@@ -33,6 +33,9 @@ Meu foco é construir uma base sólida: menos "hype" e mais fundamentos.
 
 
 ---
+### 🛠️ Tecnologias mais utilizadas
+
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vitorbs10&layout=compact&theme=tokyonight&hide=html,css)
 
 ## 📊 GitHub Stats
 
